@@ -23,4 +23,5 @@ https://github.com/PreetikaArora/myRetail
 
 #### To run the application:
 Download the project. Navigate to  the project folder and run mvn spring-boot:run
+
 Read the API documentation in Swagger2 (run http://localhost:8080/swagger-ui.html on the browser)
